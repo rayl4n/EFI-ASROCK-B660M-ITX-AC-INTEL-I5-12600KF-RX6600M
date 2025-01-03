@@ -1,0 +1,32 @@
+AMI USB Driver
+AMI NTFS Driver
+PCI Serial Driver
+Serial ATA Controller Initialization Driver
+Generic Disk I/O Driver
+Partition Driver(MBR/GPT/El Torito)
+Serial Io Uart Driver
+Touch Host Controller QuickSpi Driver
+Touch Host Controller Driver
+FAT File System Driver
+Intel(R) RST 19.5.0.5676 RST VMD Driver
+ARP Network Service Driver
+Simple Network Protocol Driver
+MNP Network Service Driver
+UEFI PXE Base Code Driver
+TCP Network Service Driver
+UEFI HTTP Boot Driver
+HttpDxe
+DNS Network Service Driver
+DHCP Protocol Driver
+IP4 CONFIG Network Service Driver
+IP4 Network Service Driver
+MTFTP4 Network Service
+UDP Network Service Driver
+DHCP6 Protocol Driver
+IP6 Network Service Driver
+MTFTP6 Network Service Driver
+UDP6 Network Service Driver
+AMD GOP X64 Release Driver Rev.3.1.0.Mar 14 2021.23:17:45
+HDA Controller Driver
+HFS File System Driver
+APFS
